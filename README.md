@@ -9,7 +9,7 @@
 
 ## Acceptance Criteria:
 ### Observe the Source Code 
-#### Originally when Igit looked over the code it looked simple, but then i noticed it had alot of "div" elements
+#### Originally when I looked over the code it looked simple, but then i noticed it had alot of "div" elements
 
 ### Locate Semantic HTML elements
 #### There were no Semantic HTML elements present, I added in "section" Semantic tags in place of the "div" tags in the main body, I also added an "aside" element in place of the "div" elements above the "footer" with "section" tags nested inside.
